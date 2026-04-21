@@ -17,7 +17,7 @@ Herramienta de análisis técnico en Python que descarga datos históricos de cu
 
 ## Ejemplo de gráfico
 
-> *Insertar captura de pantalla aquí — ejecutá el script con `AAPL` y pegá la imagen*
+<img width="1934" height="1039" alt="AAPL_analisis" src="https://github.com/user-attachments/assets/60e99ee0-6511-4ffc-875d-3d4e92ca17c1" />
 
 ---
 
